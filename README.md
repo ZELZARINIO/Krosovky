@@ -1,0 +1,1 @@
+Hi there, here you can find my website i made some long time ago, in Raw_Kross zip you can find 'raw' website with less materials and logic, and in Kross_zip zip you will find the finall version of my project with some more 'logic'
